@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saif\\source\\repos\\MiniProjet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\services\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\services\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\controllers\\interventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\controllers\\interventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\services\\iinterventionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\services\\iinterventionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\technicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\technicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\reclamationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\reclamationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\piecederechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\piecederechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|c:\\users\\saif\\source\\repos\\miniprojet\\miniprojet\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD0300-AF49-429C-B94B-C362547E3487}|MiniProjet\\MiniProjet.csproj|solutionrelative:miniprojet\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterventionController.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Controllers\\InterventionController.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Controllers\\InterventionController.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Controllers\\InterventionController.cs",
+              "RelativeToolTip": "MiniProjet\\Controllers\\InterventionController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:44:35.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterventionService.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Services\\IInterventionService.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Services\\IInterventionService.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Services\\IInterventionService.cs",
+              "RelativeToolTip": "MiniProjet\\Services\\IInterventionService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswEwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:44:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Services\\IArticleService.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Services\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Services\\IArticleService.cs",
+              "RelativeToolTip": "MiniProjet\\Services\\IArticleService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:31:36.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "MiniProjet\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:31:17.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:21:46.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Technicien.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Technicien.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\Technicien.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Technicien.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\Technicien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:15:39.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:15:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReclamationModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\ReclamationModel.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\ReclamationModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\ReclamationModel.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\ReclamationModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:15:24.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PieceDeRechange.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\PieceDeRechange.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\PieceDeRechange.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\PieceDeRechange.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\PieceDeRechange.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:15:17.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Intervention.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Intervention.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\Intervention.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Intervention.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\Intervention.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:15:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Facture.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Facture.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\Facture.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Facture.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\Facture.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:14:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Client.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:14:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\AuthModel.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\AuthModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:14:42.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\Article.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\Article.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:14:32.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:14:25.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\AddRoleModel.cs",
+              "RelativeDocumentMoniker": "MiniProjet\\Models\\AddRoleModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\MiniProjet\\MiniProjet\\Models\\AddRoleModel.cs",
+              "RelativeToolTip": "MiniProjet\\Models\\AddRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:14:13.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
